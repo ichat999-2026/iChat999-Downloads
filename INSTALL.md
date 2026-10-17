@@ -1,17 +1,25 @@
-# iChat999 installation status
+# Install a test build
 
-Updated **October 10, 2026**. No verified public installation package or Android testing invitation is available.
+Updated October 17, 2026. Use the [official download page](https://ichat999.com/#download) or files attached to [this pre-release](https://github.com/ichat999-2026/iChat999-Downloads/releases/tag/website-test-1.0.1-b32-20261017).
 
-- **iPhone / iPad:** Version 1.0.0, build 13 is **Waiting for Review**. It is not a public App Store release.
-- **Android:** Version 1.0.0, versionCode 3 is a **Google Play closed-test draft**, with 0 testers and App setup 82%. No verified Play opt-in link, Google Group invitation or public APK is available.
-- **Mac:** No verified public installer is available.
+## Android
 
-Check [official platform availability](https://ichat999.com/#download). This public repository provides information, not APK, AAB or IPA files, signing material, source code or test-account credentials.
+`iChat999-Android-20261017-v1.0.1-build32-Website-Test.apk` — version 1.0.1 (32), Android 8.0+.
 
-## Interested in Android testing?
+Signed website test build. Top-ups are unavailable while website payments are being prepared. Not a Google Play production release or closed-test invitation. Account and network-dependent features remain under test; access to Google/Firebase services is required.
 
-[Register interest in Issue #1](https://github.com/ichat999-2026/iChat999-Downloads/issues/1). Registration is not enrollment or live beta access. We will publish verified installation instructions when the official test is available; do not treat a repository comment or group membership as Play opt-in.
+## Windows
 
-Participation is free. No payment, reciprocal app testing, rating or positive review is required or promised. Do not send passwords, verification codes, phone numbers or personal chats. Do not install unofficial or debug packages, disable Play Protect, or share account recovery information.
+`iChat999-Windows-Preview-1.0.1-b32-20261017-033309-x64-setup-unsigned.exe` — version 1.0.1 (32), Windows 10/11 x64, Windows build 17763 or later.
 
-Read the [tester guide](TESTING.md) before volunteering. For feedback, provide the app version, Android version, relevant error and reproduction steps through [support](https://ichat999.com/support). Redact personal information from screenshots. Screenshots and file-integrity summaries alone are not app releases, security certifications or proof of production testing.
+**Offline interface preview only.** No real account sign-in, live chat, media or payments. The installer is unsigned. Do not disable Windows security protections to install it; use a trusted test environment or wait for a signed release.
+
+## Apple platforms
+
+The Mac website test installer is awaiting notarization and is not yet offered for download. The iPhone/iPad App Store release is being prepared. Check the official page for updates; screenshots are not release approval.
+
+## Check file integrity
+
+Compare your download with `SHA256SUMS.txt` attached to the same release. GitHub's automatic “Source code” archives contain this public product-information repository, **not application source code or an installer**.
+
+Use only official links. Do not install debug packages or disable security protection. Testing is free; never share credentials or pay someone for access. [Tester guide](TESTING.md) · [Support](https://ichat999.com/support).

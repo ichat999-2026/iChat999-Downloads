@@ -1,13 +1,10 @@
-# Public documentation update — October 10, 2026
+# Public downloads and presentation — October 17, 2026
 
-This is an English product-information and tester-interest update, **not an app release or live beta launch**.
+- Added the official brand banner and English interface previews.
+- Linked Android website test build 1.0.1 (32) and the unsigned Windows offline UI preview from the [October 17 pre-release](https://github.com/ichat999-2026/iChat999-Downloads/releases/tag/website-test-1.0.1-b32-20261017).
+- Replaced obsolete October 10 availability statements with current download guidance and explicit limitations.
+- Retained voluntary tester recruitment, safe feedback guidance and image provenance.
 
-- Apple version 1.0.0, build 13: **Waiting for Review**; public release is pending.
-- Android version 1.0.0, versionCode 3: **Google Play closed-test draft**, 0 testers, App setup 82%.
-- No verified Play opt-in link, Google Group invitation or public APK download is available.
-- [Issue #1](https://github.com/ichat999-2026/iChat999-Downloads/issues/1) accepts real Android tester interest only. Our goal is 15–20 volunteers, not an official minimum or a claim of enrolled testers.
-- [Official availability](https://ichat999.com/#download) and [installation status](INSTALL.md) distinguish preparation from an available installation channel.
+This documentation update does not change or certify application binaries. Android top-ups are unavailable. Windows is an offline interface preview with no connected account, chat, media or payments. Mac download is pending notarization; iPhone/iPad App Store release is in preparation.
 
-Participation is free. We do not ask for passwords, verification codes, phone numbers or personal chats, and do not require or promise reciprocal testing, ratings or positive reviews.
-
-This documentation update does not include screenshots, brand assets, app or backend source code, binaries, signing material, internal configuration, credentials or real user data. Product descriptions do not establish production acceptance or replace an official release.
+Only public branding, sample interface images, product information and installation guidance are included. Application/backend/admin source, signing material, internal configuration, credentials and real account data remain private.
